@@ -1,7 +1,7 @@
 # Game-Design-Packing
 Designed high level game in Unity using C#
 
- Problem Statement:
+ **Problem Statement:**
 Packing of a given set of 2D items I into a 2D container C refers to an arrangement of the items
 of I so that no two items overlap and each item is completely contained within C. The container
 C and the unique shapes of items of I are given. There is an unlimited supply of items in I. The
@@ -9,7 +9,7 @@ objective before the player is to pack as many items into C as possible. While a
 within C, the player must be allowed all the rigid motions in 2D. No other transformation may be
 permitted
 
-Overview:
+**Overview:**
 Considering the problem statement, we are planning to create a container, with a solid
 boundary, in which a user can put the object which should not overlap with each other and rigid
 motion is allowed . The object can be square, circle and equilateral triangle.
@@ -30,7 +30,7 @@ touching of sides is not considered as overlapping).
 6. Object size is fixed and players are not allowed to resize it. So the length of the triangle
 is equal to the length of the square and equal to the diameter of the circle
 
-Screens:
+**Screens:**
 1. Home Screen:
 2. Main Screen:
 3. Screen after starting the game:
