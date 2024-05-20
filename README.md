@@ -14,6 +14,7 @@ permitted
 Considering the problem statement, we are planning to create a container, with a solid
 boundary, in which a user can put the object which should not overlap with each other and rigid
 motion is allowed . The object can be square, circle and equilateral triangle.
+
 <img src="https://github.com/poojapatidar21/Game-Design-Packing/assets/56690803/46ed8a1a-3535-4ee7-a82e-ee763f405235" width="600" height="200" />
 
 This game can be played by N number of players. Winner is decided by the number of objects
